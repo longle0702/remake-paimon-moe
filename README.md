@@ -8,7 +8,7 @@ This project is a personal recreation of Paimon.moe, a comprehensive Genshin Imp
 - Weapon Database: Comprehensive weapon information including stars, pitys and refinement ranks.
 
   
-Still updating....
+# Still updating....
 
 ![Paimon](https://mystickermania.com/cdn/stickers/genshin-impact/genshin-paimon-512x512.png)
 
