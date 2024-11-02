@@ -7,7 +7,10 @@ This project is a personal recreation of Paimon.moe, a comprehensive Genshin Imp
 - Character Database: Displays a list of all Genshin Impact characters with stars, pitys and constellations.
 - Weapon Database: Comprehensive weapon information including stars, pitys and refinement ranks.
 
+  
+Still updating....
+
 ![Paimon](https://mystickermania.com/cdn/stickers/genshin-impact/genshin-paimon-512x512.png)
 
-Still updating....
+
 
